@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Kode Pos</string>
+    <string name="action_settings">Sing Nggawe</string>
+
+    <string name="info">Aplikasi ini berfungsi untuk mempermudah anda dalam melakukan kegiatan sehari-hari dengan memanfaatkan
+    Metode Seadanya dan dikembangkan dengan malas malasan :)
+
+        Desain dan Pengkodean : Muhammad Farid Hasyim.
+        Dibuat dengan sepenuh hati
+    </string>
+</resources>
